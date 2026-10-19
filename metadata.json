@@ -1,0 +1,6 @@
+{
+  "name": "StudySaathi AI Student Solver",
+  "description": "AI-powered educational assistant helping students understand and solve academic questions with step-by-step explanations, camera & image OCR scanning, subject & difficulty options, and practice exercises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
